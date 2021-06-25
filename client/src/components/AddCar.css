@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.containerg {
+
+    justify-content: flex-start;
+    width: 50%;
+    margin-right: 60px;
+	font-family: 'Lobster', cursive;
+	color: red;
+    text-align: center;
+}
+.form-boi {
+    padding: 12px 20px 20px 20px;
+    margin: 8px 10px 10px 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+h4 {
+	font-family: 'Lobster', cursive;
+	color: red
+}

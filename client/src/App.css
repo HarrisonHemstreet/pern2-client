@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.background-eggshell {
+	/* background-color: #bfbdbd; */
+	
+    background: linear-gradient(rgb(214, 214, 214), rgba(94, 92, 84));
+    overflow-y: overlay;
+}
+
+h1 {
+
+  margin: auto;
+  padding: 20px;
+  text-align:center;
+  font-size: 90px;
+}
